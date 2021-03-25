@@ -1,2 +1,2 @@
 # Calculator
-This is a simple calculator with awesome CSS Front-end.
+This calculator is designed with some awesome CSS.
