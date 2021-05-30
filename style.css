@@ -87,11 +87,3 @@ body {
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-
-video{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); 
-    width: 400px; 
-}
