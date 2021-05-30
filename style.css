@@ -65,6 +65,9 @@ body {
 #glow-on-hover:active:after {
     background: transparent;
 }
+#glow-on-hover:focus:after {
+    background: transparent;
+}
 
 #glow-on-hover:hover:before {
     opacity: 1;
